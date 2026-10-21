@@ -26,7 +26,12 @@ Miniaturized continuum surgical robots (especially below 5 mm) mostly rely on on
 
 In this run, both filters beat each sensor on its own. The complementary filter improved on the better sensor (B) by about 6%. The Kalman filter improved on it by about 24%. The Kalman estimate is smoother but visibly lags the true signal.
 
-Plots: `fusion_complementary.png`, `fusion_kalman.png`.
+Plots: `![Complementary filter result](fusion_complementary.png)
+
+
+
+
+![Kalman filter result](fusion_kalman.png)`.
 
 ## What I learnt
 
